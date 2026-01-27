@@ -1,12 +1,10 @@
+
+### This project is Archived
+
+>[!WARNING]
+>This project has been moved to its new location: https://github.com/boriel-basic/zxbasic
+
 ---
-
-## == Archived ==
-This project has been moved to its new location: https://github.com/boriel-basic/zxbasic
-
----
-
----
-
 
 ![Boriel ZX Basic](img/zxbasic_logo.png)
 
